@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Book An Appointment - Hong Kong</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d42fa064-72f6-45c3-bf0e-99d555ce689b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d638e87e-8b22-48b6-aecc-fe36d49be952</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d638e87e-8b22-48b6-aecc-fe36d49be952</id>
+      <masked>false</masked>
+      <name>facility</name>
+   </variable>
+</TestCaseEntity>

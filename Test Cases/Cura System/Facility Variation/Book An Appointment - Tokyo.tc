@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Book An Appointment - Tokyo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>750e49cf-419c-40c1-91b9-87a3dd467462</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a21d9c6e-a585-40b3-9552-8b203749032b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a21d9c6e-a585-40b3-9552-8b203749032b</id>
+      <masked>false</masked>
+      <name>facility</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Program Radio - Master</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3d7b67a5-85b2-4f0d-8fd7-782b3c18b57d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>54c403da-591b-41f1-ab16-5a4dc18e7fad</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>54c403da-591b-41f1-ab16-5a4dc18e7fad</id>
+      <masked>false</masked>
+      <name>prog</name>
+   </variable>
+</TestCaseEntity>

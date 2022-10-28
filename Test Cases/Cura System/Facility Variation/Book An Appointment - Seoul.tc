@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Book An Appointment - Seoul</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c2f247be-af4c-41c5-8f93-5166da77de4f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fcd94665-a320-4625-9686-0b3fca211164</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fcd94665-a320-4625-9686-0b3fca211164</id>
+      <masked>false</masked>
+      <name>facility</name>
+   </variable>
+</TestCaseEntity>
